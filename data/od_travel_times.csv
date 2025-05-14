@@ -1,0 +1,12 @@
+Origin,Destination,Peak_Time,Non_Peak_Time,SRL_Estimated_Time
+Cheltenham,Monash Uni,45,38,15
+Cheltenham,Box Hill,55,48,22
+Monash Uni,Burwood,40,33,12
+Monash Uni,Box Hill,42,36,18
+Clayton,Burwood,35,28,12
+Clayton,Glen Waverley,30,25,10
+Glen Waverley,Box Hill,40,35,15
+Cheltenham,Burwood,50,43,18
+Monash Uni,Glen Waverley,32,27,11
+Clayton,Box Hill,45,39,17
+
