@@ -38,4 +38,4 @@ Suburbs analysed include Clayton, Box Hill, Glen Waverley, and surrounding SA2 a
 
 ## 🔗 Author
 
-This project was developed independently by Gokul Nair in 2025 as part of a data analytics portfolio and Engineers Australia Career Episode submission.
+This project was developed independently by Gokul Nair in 2025 as part of a data analytics portfolio.
